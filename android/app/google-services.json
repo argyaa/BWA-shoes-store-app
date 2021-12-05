@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "866838123872",
+    "project_id": "shamo-dc351",
+    "storage_bucket": "shamo-dc351.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866838123872:android:cd7ba249ff43bb04333a05",
+        "android_client_info": {
+          "package_name": "com.argya.shamo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866838123872-0ej494cek6mq926opjv9q9i87n783e6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBONeROa8PLlQyj7YtTHbiDZM5u36ChnIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866838123872-0ej494cek6mq926opjv9q9i87n783e6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
